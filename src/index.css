@@ -1,0 +1,45 @@
+.header
+{
+  display: flex;
+  border: 1px solid black;
+  justify-content: space-between;
+}
+.logo img
+{
+  width: 150px;
+}
+.nav-item > ul{
+  display: flex;
+  padding: 0px 20px;
+  list-style-type: none;
+}
+.nav-item>ul>li{
+  font-size: 24px;
+  padding: 10 px;
+  margin: 10px;
+}
+.res-card{
+  margin: 2px;
+  padding: 5px;
+  width: 200px;
+   
+  background-color: gainsboro;
+}
+.search{
+  padding: 10px;
+}
+.res-card img
+{
+  width: 200px;
+  height: 170px;
+}
+.rest-cont{
+  display: flex;
+  flex-wrap: wrap;
+}
+.res-card:hover{
+  border: 1px solid black;
+  cursor: pointer;
+}
+  
+
