@@ -22,12 +22,11 @@
   margin: 2px;
   padding: 5px;
   width: 200px;
+  /* border: solid black 1px; */
    
   background-color: gainsboro;
 }
-.search{
-  padding: 10px;
-}
+
 .res-card img
 {
   width: 200px;
@@ -48,3 +47,22 @@
   padding: 3px;
 }
 
+.cards{
+
+  margin: 5px;
+  width: 200px;
+  height: 400px;
+  background-color: gainsboro;
+}
+.cards-container{
+  display: flex;
+}
+.filter{
+  display: flex;
+}
+.searchbtn
+{
+  margin: 4px;
+  cursor: pointer;
+  padding: 3px;
+}
