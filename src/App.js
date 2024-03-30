@@ -6,6 +6,7 @@ import Body from './Components/Body';
 
 //Swiggy clone
 
+// For git Setup
 
 function App() {
  return(
