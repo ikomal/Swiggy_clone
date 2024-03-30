@@ -3,7 +3,7 @@ import Restcard from "./Restcard";
 import {useEffect, useState} from "react"
 import Shimmer from "./Shimmer";
 
-
+// For git setup 2
 const Body=()=>
 { 
     let [resList,setList]=useState([]);

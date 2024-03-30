@@ -7,5 +7,6 @@ const Shimmer=()=>{
             <div className="cards"></div>
         </div>
     )
+    //Changes
 }
 export default Shimmer
